@@ -1,4 +1,4 @@
 Hello world
-This is my first file in Git
+
 Adding another sentence
 add fourth line
