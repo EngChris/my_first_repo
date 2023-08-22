@@ -7,3 +7,8 @@ Suggestion: keep sufficient water in the water tank,
 4. How do you bleed the cooling system? It has air 如何对冷却系统进行排气？它有空气
 建议：保持水箱水量充足，水泵持续工作时，拧开补水箱盖子，便于排气顺畅，或在各水管节点松开一下抱箍，通过泄放排水方式排气。
 
+
+1. What is the set cell individual voltage at SOC 0% and also at SOC 100%.
+1. SOC 0% 和 SOC 100% 时设置的电池单体电压是多少？
+
+
