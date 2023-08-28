@@ -12,3 +12,7 @@ Suggestion: keep sufficient water in the water tank,
 1. SOC 0% 和 SOC 100% 时设置的电池单体电压是多少？
 
 
+i have added something new to test our git class session learning
+
+
+
